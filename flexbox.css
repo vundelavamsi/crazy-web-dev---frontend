@@ -1,0 +1,47 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.row-container {
+    display: flex;
+    flex-direction: row;
+    margin: 4px;
+}
+
+.container {
+    background-color: #444444;
+    height: 50px;
+    margin: 4px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.container-1 {
+    width: 50%;
+}
+
+.container-2 {
+    width: 50%;
+}
+
+.container-3 {
+    width: 20%;
+}
+
+.container-4 {
+    width: 80%;
+}
+
+.container-1 {
+    width: 50%;
+}
+
+.container-5 {
+    width: 100%;
+}
